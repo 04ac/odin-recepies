@@ -1,0 +1,29 @@
+* {
+    background-color: rgb(238, 238, 113);
+}
+
+h1 {
+    color: brown;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+}
+
+img {
+    width: 400px;
+    height: auto;
+}
+
+h3 {
+    font-size: 30px;
+    color: green;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+p,
+li {
+    font-size: 20px;
+    color: rgb(170, 21, 96);
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 500;
+}

@@ -1,0 +1,22 @@
+* {
+    background-color: rgb(238, 238, 113);
+}
+
+h1 {
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: green;
+    font-size: 50px;
+}
+
+div.container {
+    text-align: center;
+}
+
+ul {
+    display: inline-block;
+    text-align: left;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    color: crimson;
+}
